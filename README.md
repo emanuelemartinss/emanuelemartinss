@@ -10,5 +10,8 @@
 #### Conect with me:
 <a href="malito:contato@emanuelemartinsferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> <a href="https://www.linkedin.com/in/emanuele-silva-08264b116/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelemartinss&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelemartinss)](https://github.com/emanuelemartins/github-readme-stats)
+          
 
